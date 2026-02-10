@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import { BookOpen, Gamepad2, Home } from 'lucide-react';
+import Logo from './components/Logo';
 import CategorySelector from './components/CategorySelector';
 import FlashcardMode from './components/FlashcardMode';
 import QuizMode from './components/QuizMode';
@@ -36,7 +37,7 @@ export default function App() {
       {/* Header */}
       <header className="header">
         <button className="header__home" onClick={handleGoHome}>
-          <span className="header__logo">🌈</span>
+          <Logo size={36} />
           <h1 className="header__title">KidLearn</h1>
         </button>
 

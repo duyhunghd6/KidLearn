@@ -1,0 +1,151 @@
+[
+  {
+    "category": "animals",
+    "label": "Động vật",
+    "emoji": "🐾",
+    "words": [
+      { "en": "dog", "vi": "con chó", "emoji": "🐶" },
+      { "en": "cat", "vi": "con mèo", "emoji": "🐱" },
+      { "en": "elephant", "vi": "con voi", "emoji": "🐘" },
+      { "en": "lion", "vi": "con sư tử", "emoji": "🦁" },
+      { "en": "monkey", "vi": "con khỉ", "emoji": "🐵" },
+      { "en": "rabbit", "vi": "con thỏ", "emoji": "🐰" },
+      { "en": "bear", "vi": "con gấu", "emoji": "🐻" },
+      { "en": "pig", "vi": "con heo", "emoji": "🐷" },
+      { "en": "cow", "vi": "con bò", "emoji": "🐮" },
+      { "en": "horse", "vi": "con ngựa", "emoji": "🐴" },
+      { "en": "chicken", "vi": "con gà", "emoji": "🐔" },
+      { "en": "duck", "vi": "con vịt", "emoji": "🦆" },
+      { "en": "fish", "vi": "con cá", "emoji": "🐟" },
+      { "en": "bird", "vi": "con chim", "emoji": "🐦" },
+      { "en": "frog", "vi": "con ếch", "emoji": "🐸" },
+      { "en": "turtle", "vi": "con rùa", "emoji": "🐢" },
+      { "en": "butterfly", "vi": "con bướm", "emoji": "🦋" },
+      { "en": "snake", "vi": "con rắn", "emoji": "🐍" },
+      { "en": "penguin", "vi": "chim cánh cụt", "emoji": "🐧" },
+      { "en": "tiger", "vi": "con hổ", "emoji": "🐯" }
+    ]
+  },
+  {
+    "category": "fruits",
+    "label": "Trái cây",
+    "emoji": "🍎",
+    "words": [
+      { "en": "apple", "vi": "quả táo", "emoji": "🍎" },
+      { "en": "banana", "vi": "quả chuối", "emoji": "🍌" },
+      { "en": "grape", "vi": "quả nho", "emoji": "🍇" },
+      { "en": "orange", "vi": "quả cam", "emoji": "🍊" },
+      { "en": "strawberry", "vi": "quả dâu tây", "emoji": "🍓" },
+      { "en": "watermelon", "vi": "quả dưa hấu", "emoji": "🍉" },
+      { "en": "pineapple", "vi": "quả dứa", "emoji": "🍍" },
+      { "en": "cherry", "vi": "quả anh đào", "emoji": "🍒" },
+      { "en": "peach", "vi": "quả đào", "emoji": "🍑" },
+      { "en": "lemon", "vi": "quả chanh", "emoji": "🍋" },
+      { "en": "pear", "vi": "quả lê", "emoji": "🍐" },
+      { "en": "mango", "vi": "quả xoài", "emoji": "🥭" },
+      { "en": "coconut", "vi": "quả dừa", "emoji": "🥥" },
+      { "en": "kiwi", "vi": "quả kiwi", "emoji": "🥝" },
+      { "en": "avocado", "vi": "quả bơ", "emoji": "🥑" },
+      { "en": "blueberry", "vi": "quả việt quất", "emoji": "🫐" },
+      { "en": "melon", "vi": "quả dưa", "emoji": "🍈" },
+      { "en": "tomato", "vi": "quả cà chua", "emoji": "🍅" },
+      { "en": "corn", "vi": "bắp ngô", "emoji": "🌽" },
+      { "en": "carrot", "vi": "cà rốt", "emoji": "🥕" }
+    ]
+  },
+  {
+    "category": "colors",
+    "label": "Màu sắc",
+    "emoji": "🎨",
+    "words": [
+      { "en": "red", "vi": "màu đỏ", "emoji": "🔴" },
+      { "en": "blue", "vi": "màu xanh dương", "emoji": "🔵" },
+      { "en": "green", "vi": "màu xanh lá", "emoji": "🟢" },
+      { "en": "yellow", "vi": "màu vàng", "emoji": "🟡" },
+      { "en": "orange", "vi": "màu cam", "emoji": "🟠" },
+      { "en": "purple", "vi": "màu tím", "emoji": "🟣" },
+      { "en": "pink", "vi": "màu hồng", "emoji": "🩷" },
+      { "en": "brown", "vi": "màu nâu", "emoji": "🟤" },
+      { "en": "black", "vi": "màu đen", "emoji": "⚫" },
+      { "en": "white", "vi": "màu trắng", "emoji": "⚪" }
+    ]
+  },
+  {
+    "category": "shapes",
+    "label": "Hình khối",
+    "emoji": "🔷",
+    "words": [
+      { "en": "circle", "vi": "hình tròn", "emoji": "⭕" },
+      { "en": "star", "vi": "ngôi sao", "emoji": "⭐" },
+      { "en": "heart", "vi": "trái tim", "emoji": "❤️" },
+      { "en": "diamond", "vi": "hình thoi", "emoji": "🔷" },
+      { "en": "triangle", "vi": "hình tam giác", "emoji": "🔺" },
+      { "en": "square", "vi": "hình vuông", "emoji": "🟧" },
+      { "en": "moon", "vi": "mặt trăng", "emoji": "🌙" },
+      { "en": "sun", "vi": "mặt trời", "emoji": "☀️" },
+      { "en": "rainbow", "vi": "cầu vồng", "emoji": "🌈" },
+      { "en": "cloud", "vi": "đám mây", "emoji": "☁️" }
+    ]
+  },
+  {
+    "category": "vehicles",
+    "label": "Phương tiện",
+    "emoji": "🚗",
+    "words": [
+      { "en": "car", "vi": "xe ô tô", "emoji": "🚗" },
+      { "en": "bus", "vi": "xe buýt", "emoji": "🚌" },
+      { "en": "train", "vi": "tàu hỏa", "emoji": "🚂" },
+      { "en": "airplane", "vi": "máy bay", "emoji": "✈️" },
+      { "en": "bicycle", "vi": "xe đạp", "emoji": "🚲" },
+      { "en": "boat", "vi": "thuyền", "emoji": "⛵" },
+      { "en": "helicopter", "vi": "trực thăng", "emoji": "🚁" },
+      { "en": "rocket", "vi": "tên lửa", "emoji": "🚀" },
+      { "en": "truck", "vi": "xe tải", "emoji": "🚛" },
+      { "en": "motorcycle", "vi": "xe máy", "emoji": "🏍️" }
+    ]
+  },
+  {
+    "category": "body",
+    "label": "Cơ thể",
+    "emoji": "🧍",
+    "words": [
+      { "en": "eye", "vi": "mắt", "emoji": "👁️" },
+      { "en": "nose", "vi": "mũi", "emoji": "👃" },
+      { "en": "mouth", "vi": "miệng", "emoji": "👄" },
+      { "en": "ear", "vi": "tai", "emoji": "👂" },
+      { "en": "hand", "vi": "bàn tay", "emoji": "🤚" },
+      { "en": "foot", "vi": "bàn chân", "emoji": "🦶" },
+      { "en": "head", "vi": "đầu", "emoji": "🗣️" },
+      { "en": "hair", "vi": "tóc", "emoji": "💇" },
+      { "en": "tooth", "vi": "răng", "emoji": "🦷" },
+      { "en": "finger", "vi": "ngón tay", "emoji": "☝️" }
+    ]
+  },
+  {
+    "category": "household",
+    "label": "Đồ vật trong nhà",
+    "emoji": "🏠",
+    "words": [
+      { "en": "chair", "vi": "cái ghế", "emoji": "🪑" },
+      { "en": "table", "vi": "cái bàn", "emoji": "🪵" },
+      { "en": "bed", "vi": "cái giường", "emoji": "🛏️" },
+      { "en": "door", "vi": "cánh cửa", "emoji": "🚪" },
+      { "en": "window", "vi": "cửa sổ", "emoji": "🪟" },
+      { "en": "lamp", "vi": "đèn", "emoji": "💡" },
+      { "en": "clock", "vi": "đồng hồ", "emoji": "🕐" },
+      { "en": "television", "vi": "ti vi", "emoji": "📺" },
+      { "en": "phone", "vi": "điện thoại", "emoji": "📱" },
+      { "en": "book", "vi": "quyển sách", "emoji": "📖" },
+      { "en": "cup", "vi": "cái cốc", "emoji": "🥤" },
+      { "en": "plate", "vi": "cái đĩa", "emoji": "🍽️" },
+      { "en": "spoon", "vi": "cái thìa", "emoji": "🥄" },
+      { "en": "key", "vi": "chìa khóa", "emoji": "🔑" },
+      { "en": "bag", "vi": "cái túi", "emoji": "👜" },
+      { "en": "shoe", "vi": "đôi giày", "emoji": "👟" },
+      { "en": "hat", "vi": "cái mũ", "emoji": "🎩" },
+      { "en": "umbrella", "vi": "cái ô", "emoji": "☂️" },
+      { "en": "pencil", "vi": "cái bút chì", "emoji": "✏️" },
+      { "en": "scissors", "vi": "cái kéo", "emoji": "✂️" }
+    ]
+  }
+]
